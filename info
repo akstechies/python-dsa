@@ -1,0 +1,19 @@
+Data structures deal with how the data is organized and held in the memory when a program processes it.
+
+An Algorithm is step by step set of instruction to process the data for a specific purpose. So an algorithm utilizes various data structures in a logical way to solve a specific computing problem.
+
+Prerequisites - Basic Knowledge of Python programming language
+
+Syllabus
+
+1. DS Home
+2. DS Introduction
+3. Environment Setup
+4. Arrays
+5. Lists
+6. Tuples
+7. Dictionary
+8. 2D Array
+9. Matrix
+10. Sets
+11. Maps
